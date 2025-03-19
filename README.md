@@ -1,6 +1,3 @@
-Got it! Your uploaded file **"fakeandrealnews.ipynb"** is related to **Fake News Detection**. Below is a **detailed README description** for this project:  
-
----
 
 ### **Description for README.md**  
 
